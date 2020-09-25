@@ -1,0 +1,6 @@
+Credentials cache: API:922DA04C-EF82-452F-9787-656A6EF0B565
+        Principal: dgrance@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Sep  8 15:28:24 2020  Sep  9 01:28:24 2020  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
+Sep  8 15:28:27 2020  Sep  9 01:28:24 2020  HTTP/student-storage.msk.21-school.ru@MSK.21-SCHOOL.RU
